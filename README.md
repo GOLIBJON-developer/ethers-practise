@@ -1,4 +1,4 @@
-# Ethers V6 Examples
+# Ethers V6 Examples (Learning process)
 Learn about Ethers.js v6 w/ example scripts.
 
 ## Technology Stack & Tools
